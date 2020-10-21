@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here is a list
+- Open source
+- Random thought
+- Extra
