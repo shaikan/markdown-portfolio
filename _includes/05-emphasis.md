@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_At the __Left__ hand of **God** is..._
+
+- **Something**
+- *Another thing*
+- _Yet another thing_
+- **One last thing**
